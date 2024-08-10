@@ -1,3 +1,28 @@
+İndirme yapıldıktan sonra çalıştırılırken 2 dd ile biten frontendd ile yazılan kısım ön yüz olarak çalıştırılacaktır. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
